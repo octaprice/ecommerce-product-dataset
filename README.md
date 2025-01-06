@@ -34,6 +34,6 @@ For questions or support, raise an issue in the repository or contact us at [con
 
 ## License/Terms of Use 
 
-By using the Dataset Repository you agree to the following [TOU](https://github.com/octaprice/ecommerce-product-datasets/blob/master/tou.MD).
+By using the Dataset Repository you agree to the following [TOU](https://github.com/octaprice/ecommerce-product-dataset/blob/main/tou.MD).
 
 ---
