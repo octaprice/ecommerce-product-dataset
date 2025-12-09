@@ -8,6 +8,10 @@ Welcome to the [Octaprice](https://octaprice.com) Ecommerce Product Dataset Repo
 
 To get ongoing free access to additional datasets, you can use Octaprice's free [Dashboard](https://octaprice.com).
 
+## Subscribe
+
+Subscribe to our free [newsletter](https://octaprice.com/data-newsletter) to receive alerts when new datasets are available.
+
 ## Dataset Overview
 
 - **Weekly Releases:** New dataset available every week..
